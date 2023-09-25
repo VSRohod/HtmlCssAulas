@@ -1,0 +1,23 @@
+#tituloPagina{
+    color: red;
+}
+.subtitulos{
+    color: blue;
+}
+.descricoes{
+    color: brown;
+}
+.imagem{
+    width: 250px;
+}
+#imagemMaior{
+    width: 500px;
+}
+.textoVermelho{
+    color: red;
+    border: 10px solid rgb(90, 57, 57);
+}
+body{
+    text-align: center;
+    background-color: lightcoral;
+}

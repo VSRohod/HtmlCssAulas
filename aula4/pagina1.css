@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#caixa{
+    width: 300px;
+    height: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffbdd7;
+    text-align: center;
+}
+
