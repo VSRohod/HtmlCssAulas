@@ -10,7 +10,7 @@ Material dado em sala de HTML e CSS 🚀
  <li>Sites auxiliares de conteúdo para sites (Imagens, Vídeos e Audios)</li>
 </ul>
 
-aulas status:
+<h3>Aulas status:</h3>
 <ul>
 <li>🟢Aula 1 Introdução a html e css - okay </li>
 <li>🟢Aula 2 Página de estilo (CSS)- okay </li>
