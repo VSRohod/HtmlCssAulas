@@ -1,0 +1,2 @@
+Atividade 12 HTML&CSS - LISTAS (Bolo de chocolate)
+Produzir um site de confeitaria aos seus critérios, utilizando o texto fornecido e o formatando da maneira proposta. O website será livre contanto que tenha em algum lugar essa receita descrita!

@@ -1,0 +1,100 @@
+@keyframes MudaTudo {
+    0% {
+        left: 200px;
+        background-color: aqua;
+    }
+    10% {
+        left: 400px;
+        background-color: brown;
+    }
+    20%{
+        background-color: cadetblue;
+    }
+    30%{
+        background-color: rgb(188, 87, 255);
+    }
+    40%{
+        background-color: crimson;
+    }
+    50%{
+        background-color: cornflowerblue;
+    }
+    60% {
+        background-color: brown;
+    }
+    70%{
+        background-color: cadetblue;
+    }
+    80%{
+        background-color: rgb(188, 87, 255);
+    }
+    90%{
+        left: 200px;
+        background-color: crimson;
+    }
+    100%{
+        left: 0px;
+        background-color: cornflowerblue;
+    }
+}
+
+@font-face {
+    font-family: Starborn;
+    src: url(../font/starborn/Starborn.otf);
+}
+
+/* font weight roboto */
+@font-face {
+    font-family: Roboto;
+    src: url(../font/Roboto/Roboto-Regular.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: Roboto;
+    src: url(../font/Roboto/Roboto-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: Roboto;
+    src: url(../font/Roboto/Roboto-Light.ttf);
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: America;
+    src: url(../font/american_captain/American\ Captain.otf);
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Roboto , Times, serif;
+}
+
+h1{
+    font-family: America, 'Arial', Times, serif;
+}
+
+h3{
+    font-family: Starborn, 'Arial', Times, serif;
+}
+
+#pagina{
+    width: 100%;
+    height: auto;
+    margin: 20px;
+}
+a{
+    text-decoration: underline;
+}
+
+#animacao{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    /* animation-name: Mudatudo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite; */
+    animation: MudaTudo 5s infinite;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/imprecao.css" media="print">
+    <link rel="stylesheet" href="style/landscape.css" media="screen and (orientation:landscape)">
+    <link rel="stylesheet" href="style/portrait.css" media="screen and (orientation:portrait)">
+</head>
+<body>
+    <main>
+        <nav>
+            <img src="images/menuIcon.svg" alt="" id="menuButton" onclick="mostrar()">
+            <ul id="menuOpcoes">
+                <li>Item do menu</li>
+                <li>Item do menu</li>
+                <li>Item do menu</li>
+                <li>Item do menu</li>
+                <li>Item do menu</li>
+                <li>Item do menu</li>
+            </ul>
+            
+        </nav>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit iste rem repellat excepturi, aperiam debitis quisquam pariatur commodi voluptatum adipisci recusandae aut maxime odio vel, quae, sit placeat neque quaerat.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio alias odio ullam dicta vitae. Ut est repellendus quod deserunt reiciendis pariatur, similique at autem non itaque vitae eos inventore mollitia!</p>
+        <picture>
+            <source media="(max-width: 600px)" srcset="images/mulherdancandoMenor.jpg">
+            <img src="images/mulherdancando.jpg" width="100%" alt="">
+        </picture>  
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione dolor voluptas provident, doloribus doloremque accusantium vero, blanditiis magnam illo ipsum error. Nulla officiis obcaecati architecto, assumenda cumque rem quo illo!</p>
+    </main>
+    <script>
+        function mostrar(){
+            if (menuOpcoes.style.display == "block"){
+                menuOpcoes.style.display = "none"
+            } else {
+                menuOpcoes.style.display = "block"
+            }
+        }
+    </script>
+</body>
+</html>

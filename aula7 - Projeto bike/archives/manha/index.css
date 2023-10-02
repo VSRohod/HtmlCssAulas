@@ -1,0 +1,150 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#pagina{
+    width: 90%;
+    height: auto;
+    margin: 0px auto;
+}
+
+header{
+    width: 100%;
+    height: 300px;
+    background-image: url(Imagens/ImagensGeral/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+    background-image: url(Imagens/logo/logo_vou_de_bikewhite.jpg);
+    background-size: 100%;
+}
+
+nav{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#noticias{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.posts{
+    width: 30%;
+    height: 100%;
+    text-align: center;
+}
+
+.imagemPost{
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+    border-radius: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#imagemDica{
+    background-image: url(Imagens/ImagensGeral/dica.png);
+}
+
+#imagemNoticia{
+    background-image: url(Imagens/ImagensGeral/noticias.png);
+}
+
+#imagemEquipamentos{
+    background-image: url(Imagens/ImagensGeral/equipamentos.png);
+}
+
+.vermais{
+    color: black;
+    width: 150px;
+    height: auto;
+    padding: 5px 0px;
+    border: 1px solid black;
+    margin: 20px auto;
+}
+
+h1{
+    font-size: 16pt;
+}
+
+#galeria{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#secaoFotos{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fotos{
+    width: 20%;
+    height:50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#foto1{
+    background-image: url(Imagens/ImagensGeral/4dc75c56b7f5e89d6e609cc66bf41a43.jpg);
+}
+
+#foto2{
+    background-image: url(Imagens/ImagensGeral/340x255_1330238.jpg);
+}
+
+#foto3{
+    background-image: url(Imagens/ImagensGeral/275-bike.jpg);
+    background-position: left;
+}
+
+#foto4{
+    background-image: url(Imagens/ImagensGeral/07774ecf7f0e39243d9abb3c5e4bcc03.jpg);
+}
+
+#foto5{
+    background-image: url(Imagens/ImagensGeral/4566499885_96f5db7ab4_o.jpg);
+}
+
+#foto6{
+    background-image: url(Imagens/ImagensGeral/bike-new-york.jpg);
+}
+
+#foto7{
+    background-image: url(Imagens/ImagensGeral/foto4.jpeg);
+}
+
+#foto8{
+    background-image: url(Imagens/ImagensGeral/buenos-aires-interna.jpg);
+}
+
+#foto9{
+    background-image: url(Imagens/ImagensGeral/foto3.jpg);
+}
+
+#foto10{
+    background-image: url(Imagens/ImagensGeral/foto10.jpg);
+}

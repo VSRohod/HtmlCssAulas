@@ -1,0 +1,2 @@
+Atividade 10 HTML&CSS - Tabela populacional
+Utilize a imagem anexada como base e crie a tabela utilizando HTML e  CSS (Obs: As imagens utilizadas na foto estão na pasta zipada!)

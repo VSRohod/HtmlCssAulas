@@ -1,0 +1,2 @@
+Atividade 4 HTML&CSS - Caféblog
+Fazer um clone do layout apresentado, utilizando os arquivos anexados como auxiliares, para a produção do site em HTML e CSS
