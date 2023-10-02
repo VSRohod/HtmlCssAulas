@@ -15,7 +15,7 @@ aulas status:
 <li>🟢Aula 10 Tabelas - okay </li>
 <li>🟢Aula 11 Formulários - okay </li>
 <li>🟢Aula 12 Listas - okay </li>
-<li>🟢Aula 13 banco90 - Anexar projeto</li>
+<li>🟢Aula 13 banco90 - okay </li>
 <li>🟢Aula 14 @Media e design responsivo - okay </li>
 <li>🟢Aula 15 Prova - okay </li>
 <li>🟢Aula 16 Recuperação - okay </li>
