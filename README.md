@@ -33,6 +33,7 @@ Material utilizado em sala de HTML e CSS 🚀
 <li>🔴Aula 17 Bootstrap introdução - Falta material e exercícios</li>
 <li>🔴Aula 18 Bootstrap visão geral em aplicações - Falta material e exercícios</li>
 <li>🔴Aula 19 Bootstrap PawShop - Falta material e exercícios</li>
-<li>🔴Aula 20 Prova - okay </li>
-<li>🔴Aula 21 Recuperação - okay </li>
+<li>🔴Aula 20 Prova - Falta upar </li>
+<li>🔴Aula 21 Recuperação - Falta upar </li>
 </ul>
+<hr>
