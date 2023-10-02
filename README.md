@@ -1,5 +1,14 @@
 # HtmlCssAulas
- Material dado em sala de HTML e CSS
+Material dado em sala de HTML e CSS 🚀
+
+![giphy (2)](https://github.com/VSRohod/HtmlCssAulas/assets/89645335/ad00e831-5af6-44f5-990d-12f72f0ef963)
+
+<h3>Programas utilizados:</h3>
+<ul>
+ <li>Visual Studio Code</li>
+ <li>Firefox, Microsoft Edge e Google Chrome</li>
+ <li>Sites auxiliares de conteúdo para sites (Imagens, Vídeos e Audios)</li>
+</ul>
 
 aulas status:
 <ul>
