@@ -28,4 +28,11 @@ Material utilizado em sala de HTML e CSS 🚀
 <li>🟢Aula 14 @Media e design responsivo - okay </li>
 <li>🟢Aula 15 Prova - okay </li>
 <li>🟢Aula 16 Recuperação - okay </li>
+<hr>
+<h4>Bootstrap</h4>
+<li>🔴Aula 17 Bootstrap introdução - Falta material e exercícios</li>
+<li>🔴Aula 18 Bootstrap visão geral em aplicações - Falta material e exercícios</li>
+<li>🔴Aula 19 Bootstrap PawShop - Falta material e exercícios</li>
+<li>🔴Aula 20 Prova - okay </li>
+<li>🔴Aula 21 Recuperação - okay </li>
 </ul>
