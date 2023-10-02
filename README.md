@@ -1,5 +1,5 @@
 # HtmlCssAulas
-Material dado em sala de HTML e CSS 🚀
+Material utilizado em sala de HTML e CSS 🚀
 
 ![giphy (2)](https://github.com/VSRohod/HtmlCssAulas/assets/89645335/ad00e831-5af6-44f5-990d-12f72f0ef963)
 
