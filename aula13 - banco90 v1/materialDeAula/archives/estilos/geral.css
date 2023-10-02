@@ -1,0 +1,165 @@
+#colors{
+    background-color: #302727;
+    background-color: #ba2d2d;
+    background-color: #f2511b;
+    background-color: #f2861b;
+    background-color: #c7c730;
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    margin: 20px;
+}
+#pagina{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+button{
+    cursor: pointer;
+}
+
+header{
+    width: 100%;
+    height: auto;
+    padding: 20px 0px;
+    background-color: #ba2d2d;
+    display: flex;
+    justify-content: space-around;
+}
+
+#logo{
+    width: 80px;
+    height: 80px;
+}
+
+#logo img{
+    width: 100%;
+    height: 100%;
+}
+
+.elementsHeader{
+    width: 45%;
+    height: 80px;
+    display: flex;
+}
+
+#elementsHeaderRight{
+    display: flex;
+    justify-content: space-between;
+}
+
+#elementsHeaderLeft{
+    display: flex;
+    justify-content: end;
+    
+}
+
+ul{
+    list-style: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+ul li{
+    display: inline;
+    margin: 0px 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+ul li:hover{
+    border-bottom: 3px white solid;
+}
+
+header button{
+    padding: 0px 20px;
+    background-color: #ba2d2d;
+    border: 3px solid white;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+header button:hover{
+    background-color: #302727;
+    border: 3px solid #f2861b;
+    transition: 0.5s;
+    padding: 0px 25px;
+}
+/* FIM HEADER */
+
+main{
+    width: 100%;
+    height: auto;
+    padding: 20px 0px;
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#banner{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    margin-bottom:20px;
+}
+
+#bannerTexto{
+    width: auto;
+    height: auto;
+    padding: 20px;
+    background-color: #f2871b71;
+}
+
+#bannerTexto button{
+    padding: 20px;
+    background-color: #302727;
+    border: 3px solid #f2861b;
+    color: white;
+    border-radius: 5px;
+    margin: 20px 0px;
+}
+
+.section{
+    width: 80%;
+    height: 400px;
+    padding: 20px 0px;
+    margin: 20px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blankCell{
+    background-color: white;
+}
+
+/* FIM MAIN */
+
+footer{
+    width: 100%;
+    height: auto;
+    padding: 20px 0px;
+    background-color: #ba2d2d;
+    color: white;
+    text-align: center;
+}
+
+/* FIM FOOTER */

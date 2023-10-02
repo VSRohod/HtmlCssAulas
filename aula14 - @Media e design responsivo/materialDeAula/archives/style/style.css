@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: gray;
+}
+
+main{
+    background-color: white;
+    min-width: 320px;
+    max-width: 800px;
+    height: auto;
+    margin: 10px auto;
+    padding: 20px;
+    font-size: 16pt;
+}
+
+nav{
+    display: flex;
+    background-color: darkcyan;
+    align-items: center;
+    flex-direction: column;
+}
+
+#menuButton{
+    cursor: pointer;
+}  
+
+@media screen and (max-width: 600px){
+    main{
+        color: red;
+        font-size: 12pt;
+    }
+}
+
+@media screen and (min-width: 600px){
+    main{
+        color: blue;
+        font-size: 12pt;
+    }
+}
+
+@media print{
+    main{
+        color: green;
+    }
+}

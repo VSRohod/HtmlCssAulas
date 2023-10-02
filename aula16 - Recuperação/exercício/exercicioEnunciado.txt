@@ -1,0 +1,11 @@
+Atividade de recuperação
+Uma empresa de fast-food deseja que seja criado uma página home utilizando apenas HTML e CSS para que seja mostrado os seus produtos! O seu dever é fazer uma página que contenha:
+-O nome da empresa sendo McFoods
+-As cores predominantemente sendo vermelho, laranja, preto e amarelo
+-Seja mostrado ao menos 3 hamburgues em uma seção de descontos do dia
+-Tenha uma seção explicando sobre a empresa em si
+-Uma outra seção abordando os franqueados
+
+Critérios: 
+-Só poderá ser utilizado HTML e CSS, quaisquer outros elementos serão desconsiderados da avaliação
+-Deverá ter uma animação css em algum elemento da página

@@ -1,3 +1,0 @@
-#e8e6e6 cinza
-#ffffff branco
-#000000 preto

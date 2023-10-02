@@ -1,0 +1,2 @@
+Atividade 14 HTML&CSS - ArteMuseum
+Estruturar o layout proposto utilizando o @media para configurar a versão mobile:
