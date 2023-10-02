@@ -1,0 +1,68 @@
+.pai{
+    width: 500px;
+    height: auto;
+    padding: 20px 0px;
+    margin: 20px;
+    background-color: darkgrey;
+}
+
+.caixa1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+}
+
+.caixa2{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    color: white;
+}
+
+.caixa3{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+/* FIM ESTRUTURA */
+#direcao{
+    display: flex;
+    flex-direction: row;
+    /* ROW - LINHA */
+    /* COLUMN - COLUNA */
+}
+
+#justifica{
+   display: flex;
+   justify-content: space-around; 
+   /* SPACE BETWEEN ESPAÇO MAXIMO ENTRE OS ELEMENTOS */
+   /* SPACE AROUND ESPAÇO RAZOAVEL COM ESPAÇAMENTO LATERAL */
+}
+
+#alinha{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#distorce{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+#alinhaConteudo{
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+

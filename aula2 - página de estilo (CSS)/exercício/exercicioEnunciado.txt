@@ -1,0 +1,14 @@
+Crie um site simples para falar sobre exercícios fisicos, tendo 3 categorias:
+-Aquecimento
+-Exercicio de sua preferência
+-Cuidados pessoais
+
+Utilizando 2 classes:
+-Categoria: Terá um tamanho de fonte de 40px
+-Explicação: Terá um tamanho de fonte 14px e cor do texto de sua preferencia
+
+Tag:
+-body : mude a cor para uma de sua preferencia
+
+e crie 1 id
+- Titulo :  Coloque a cor de sua preferencia e tamanho de 50px

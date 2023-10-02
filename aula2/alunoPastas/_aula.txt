@@ -1,5 +1,0 @@
-DIA: 27/06/2023
-
-AULA SOBRE: HTML E SUA SINTAXE
-
-Resumo aula: estudamos um pouco de HTML novamente e estudamos a tag IMG, criamos dois exemplos de arquivos com IMG e também trabalhamos com link das próprias.

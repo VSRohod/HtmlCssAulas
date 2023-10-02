@@ -1,0 +1,67 @@
+table{
+    width: 400px;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th , td{
+    height: 50px;
+    border: 2px solid black;
+}
+
+th{
+    background-color: rgb(46, 46, 46);
+    color: white;
+}
+
+#tabelaAlunos{
+    width: 1000px;
+}
+
+#tabelaAlunos td:last-of-type{
+    text-align: center;
+    background-color: rgb(167, 214, 255);
+}
+
+th:hover{
+   background-color: green; 
+}
+
+td:hover{
+    background-color: rgb(216, 216, 216);
+}
+
+th:active , td:active {
+    background-color: red;
+    color: white;
+}
+
+input{
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+    transition: 1s;
+}
+
+input:focus{
+    border: none;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    background-color: rgb(116, 1, 139);
+    color: white;
+    transition: 1s;
+}
+
+th:empty, td:empty {
+    background-color: white;
+    border: none;
+}
+
+thead{
+    position: sticky;
+    top: 0px;
+}
+
+#scroll{
+    width: 50px;
+    height: 20000px;
+}

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>FORMULARIO</h1>
+    <form action="backend.php" method="post">
+        <fieldset>
+            <legend>Obrigatórios</legend>
+            <label for="nome">Nome:*</label>
+            <input type="text" id="nome" required><br>
+
+            <label for="email">Email:*</label>
+            <input type="email" id="email" placeholder="exemplo@email.com" required><br>
+
+            <label for="senha">Senha:*</label>
+            <input type="password" id="senha" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Outros dados</legend>
+            <label for="idade">Idade:</label>
+            <input type="number" id="idade" min="0" max="200"><br>
+            
+            <label for="cor">Cor:</label>
+            <input type="color" id="cor"><br>
+
+            <label for="data">Data:</label>
+            <input type="date" id="data"><br>
+
+            <label for="relogio">Relogio:</label>
+            <input type="time" id="relogio"><br>
+
+            <label for="foto">Selecione uma foto</label>
+            <input type="file" name="" id="foto"><br>
+
+            <!-- estou escondido! -->
+            <input type="hidden" name="">
+
+            <label for="checar">Você está feliz?</label>
+            <input type="checkbox" name="" id="checar" checked>
+        </fieldset>
+
+        <fieldset>
+            <legend>Escolhas</legend>
+            <!-- sexo do usuario -->
+            <label for="mulher">Sexo:</label><br>
+            <label for="mulher">Mulher:</label>
+            <input type="radio" id="mulher" name="sexo"><br>
+            
+            <label for="homem">Homem:</label>
+            <input type="radio" id="homem" name="sexo"><br>
+
+            <label for="naodizer">Não dizer:</label>
+            <input type="radio" id="naodizer" name="sexo"><br>
+            <!-- fim sexo do usuario -->
+
+            <select name="" id="escolaridade">
+                <option value="basico">Ensino Básico</option>
+                <option value="medio">Ensino Médio</option>
+                <option value="superior">Ensino Superior</option>
+                <option value="pos">Ensino Pós Graduado</option>
+            </select><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Opiniões e considerações finais</legend>
+            <label for="feedback">Dê sua opnião</label><br>
+            <textarea name="" id="feedback" cols="30" rows="10" maxlength="200" disabled></textarea>
+        </fieldset>
+        <input type="submit" value="FINALIZEI MEU FORMULARIO">
+        <button type="reset">RESETAR</button><br>
+    </form>
+</body>
+</html>
