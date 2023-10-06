@@ -1,0 +1,58 @@
+/* * geral */
+*{
+    /* margem externa */
+    margin: 0;
+    /* margem interna */
+    padding: 0;
+}
+
+p{
+    color: rgb(15, 71, 124);
+}
+
+#pagina{
+    width: 100%;
+    margin: 0px auto;
+}
+
+#cabecalho{
+    width: 100%;
+    height: 60px;
+    background-color: red;
+    /* top - topo */
+    /* left - esquerda */
+    /* right - direita */
+    /* bottom - em baixo */
+    /* margin 2 valores = eixo y e eixo x */
+    /* margin 4 valores = eixo topo, direita , em baixo e esquerda */
+
+    /* margin-top: 100px; */
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    /* margin-bottom: 20px; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    line-height:60px;
+}
+
+#links{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(190, 190, 190);
+}
+
+#banner{
+    width: 80%;
+    height: 300px;
+    /* chama a imagem para background */
+    background-image: url(../images/monte.jpg) ;
+    /* tamanho do background */
+    background-size: cover;
+    /* posição da imagem */
+    background-position: center;
+    /* quantas vezes o background será repetido! */
+    background-repeat: no-repeat;
+    margin: 10px auto;
+    border-radius: 20px;
+}
