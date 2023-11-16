@@ -33,7 +33,7 @@ Material utilizado em sala de HTML e CSS 🚀
 <li>🟢Aula 17 Bootstrap introdução - okay </li>
 <li>🟢Aula 18 e 19 Bootstrap PawShop - okay </li>
 <li>🟡Aula 20 Bootstrap Revisão - falta terminar </li>
-<li>🟢Aula 20 Prova - Falta upar </li>
-<li>🟢Aula 21 Recuperação - Falta upar </li>
+<li>🟢Aula 21 Bootstrap Prova - Falta upar </li>
+<li>🟢Aula 22 Bootstrap Recuperação - okay </li>
 </ul>
 <hr>
