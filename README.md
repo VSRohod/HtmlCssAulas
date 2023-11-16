@@ -14,7 +14,7 @@ Material utilizado em sala de HTML e CSS 🚀
 <ul>
 <li>🟢Aula 1 Introdução a html e css - okay </li>
 <li>🟢Aula 2 Página de estilo (CSS)- okay </li>
-<li>🔴Aula 3 Aplicado padding e margin, criando links - Desenvolver material e atividade</li>
+<li>🟢Aula 3 Aplicado padding e margin, criando links - Desenvolver material e atividade</li>
 <li>🟢Aula 4 Estruturação de interface - okay </li>
 <li>🟡Aula 5 Páginas de navegação - Desenvolver uma atividade</li>
 <li>🟢Aula 6 Flexbox - okay </li>
