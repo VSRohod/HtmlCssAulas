@@ -1,0 +1,18 @@
+/* :root salva variaveis */
+/* --variavel : dado ; */
+/* chamar var = var(--variavel) */
+/* element!important = prioriza o código */
+:root{
+    --laranja: #dd6509;
+    --preto: #000000;
+    --fontePrincipal: trebuchet ;
+}
+
+.carousel-caption{
+    background-color: #000000b6;
+}
+
+#page{
+    background-color: var(--preto)!important;
+    color: var(--laranja);
+}

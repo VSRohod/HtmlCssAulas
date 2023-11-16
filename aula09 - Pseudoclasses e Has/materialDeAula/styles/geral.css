@@ -1,0 +1,134 @@
+@keyframes borda {
+    0%{
+        border: 3px solid rgb(20, 72, 184);
+        transition: 0.5s;
+    }
+    50%{
+        border: 3px solid rgb(20, 116, 184);
+        transition: 0.5s;
+    }
+    100%{
+        border: 3px solid rgb(77, 20, 184);
+        transition: 0.5s;
+    }
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#pagina{
+    width: 100%;
+    height: 100vh; /* VH - viewport height */
+    background-color: rgb(20, 72, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+main{
+    width: 70%;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.663) 6px 6px;
+    display: flex;
+    overflow: hidden;
+}
+
+#banner, #formulario{
+    width: 50%;
+    height: 100%;
+}
+
+#banner{
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#efeito{
+    width: 100%;
+    height: 100%;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgba(255,255,255,0.5045238676525298) 51%, rgba(255,255,255,1) 100%);
+}
+
+#formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#formulario:has(p){
+    background-color: aqua;
+}
+
+h2{
+    color: rgb(89, 30, 185);
+    margin: 20px 0px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-size: 16pt;
+}
+
+input{
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 5px;
+    transition: 1s;
+}
+
+input:hover{
+    background-color: rgb(192, 192, 192);
+    transition: 0.3s;
+}
+
+input:focus{
+   width: 380px;
+   height: 35px; 
+   transition: 1s;
+   background-color: rgb(110, 110, 246);
+   color: white;
+   animation: borda 1.5s infinite;
+}
+
+input::placeholder{
+    color: rgb(110, 110, 246);
+}
+
+button{
+    width: 200px;
+    height: 30px;
+    background-color: rgb(20, 72, 184);
+    color: white;
+    margin: 10px auto;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+button:active{
+    background-color: white;
+    color: red;
+}
+
+button:hover{
+    width: 250px;
+    height: 35px;
+    background-color: rgb(20, 118, 184);
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+
+

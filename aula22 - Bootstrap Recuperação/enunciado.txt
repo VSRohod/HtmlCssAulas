@@ -1,0 +1,8 @@
+Recuperação Atividade Avaliativa 3
+Uma empresa de academia decidiu criar um website para exercício físico para chamar mais a atenção de clientes! Você sendo um contratado para desenvolver esse projeto, teve que lidar com alguns requisitos dessa academia:
+-Eles querem apenas uma página contendo várias seções sendo a ordem definida pelo dev
+-Estão sendo exigidos uma seção para: Galeria, Bem estar ( descrições de como ter uma vida saudável ), localidade de franqueados, uma tabela de preços para cada tipo de assinatura mensal que eles utilizam
+
+REQUISITOS OBRIGATÓRIOS:
+-Ser montado completamente pelo bootstrap utilizando o css em apenas casos de complicações
+-Não poderá ser utilizado outros elementos além do BootStrap, Bootstrap Js e CSS, quaisquer outros, serão desconsiderados da avaliação!

@@ -1,0 +1,2 @@
+Atividade 7 HTML&CSS - Projeto Bike
+Estruture o layout proposto de acordo com o layout requisitado acima
