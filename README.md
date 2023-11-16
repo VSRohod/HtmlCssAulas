@@ -14,13 +14,13 @@ Material utilizado em sala de HTML e CSS 🚀
 <ul>
 <li>🟢Aula 1 Introdução a html e css - okay </li>
 <li>🟢Aula 2 Página de estilo (CSS)- okay </li>
-<li>🟢Aula 3 Aplicado padding e margin, criando links - Desenvolver material e atividade</li>
+<li>🟢Aula 3 Aplicado padding e margin, criando links - okay</li>
 <li>🟢Aula 4 Estruturação de interface - okay </li>
-<li>🟢Aula 5 Páginas de navegação - Desenvolver uma atividade</li>
+<li>🟢Aula 5 Páginas de navegação -</li>
 <li>🟢Aula 6 Flexbox - okay </li>
-<li>🟢Aula 7 Projeto bike - Terminar o projeto</li>
-<li>🟢Aula 8 Anexando fontes ao site e keyframes - Desenvolver uma atividade</li>
-<li>🟢Aula 9 PseudoClasses e Has - Desenvolver material e atividade</li>
+<li>🟡Aula 7 Projeto bike - Terminar o projeto</li>
+<li>🟢Aula 8 Anexando fontes ao site e keyframes - okay </li>
+<li>🟢Aula 9 PseudoClasses e Has - okay </li>
 <li>🟢Aula 10 Tabelas - okay </li>
 <li>🟢Aula 11 Formulários - okay </li>
 <li>🟢Aula 12 Listas - okay </li>
@@ -30,10 +30,10 @@ Material utilizado em sala de HTML e CSS 🚀
 <li>🟢Aula 16 Recuperação - okay </li>
 <hr>
 <h4>Bootstrap</h4>
-<li>🔴Aula 17 Bootstrap introdução - Falta material e exercícios</li>
-<li>🔴Aula 18 Bootstrap visão geral em aplicações - Falta material e exercícios</li>
-<li>🔴Aula 19 Bootstrap PawShop - Falta material e exercícios</li>
-<li>🔴Aula 20 Prova - Falta upar </li>
-<li>🔴Aula 21 Recuperação - Falta upar </li>
+<li>🟢Aula 17 Bootstrap introdução - okay </li>
+<li>🟢Aula 18 e 19 Bootstrap PawShop - okay </li>
+<li>🟡Aula 20 Bootstrap Revisão - falta terminar </li>
+<li>🟢Aula 20 Prova - Falta upar </li>
+<li>🟢Aula 21 Recuperação - Falta upar </li>
 </ul>
 <hr>
